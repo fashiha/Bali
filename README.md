@@ -25,8 +25,8 @@ D. SUMBER DATA:
    Google Maps (metode scraper extensions)
 
 
-a. Tampilan Sign in
-![image](https://github.com/fashiha/Bali/assets/88226203/20badb01-e6d7-4041-b2ad-def17aa1ee73)
+
+!a. Tampilan Sign in[image](https://github.com/fashiha/Bali/assets/88226203/20badb01-e6d7-4041-b2ad-def17aa1ee73)
 
 b. Tampilan Sign up
 ![image](https://github.com/fashiha/Bali/assets/88226203/0f6a384f-a9e7-4ba3-a6f5-f9566299da92)
