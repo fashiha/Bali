@@ -7,6 +7,7 @@ import Fontawesome5 from 'react-native-vector-icons/FontAwesome5';
 import Villa from './screens/Villa';
 
 const Discover = () => {
+  const navigation = useNavigation();
   // const navigation = useNavigation();
 
   // useLayoutEffect(() => {
@@ -18,26 +19,25 @@ const Discover = () => {
 
 
   const Gambar = () => {
-    const navigation = useNavigation();
     return (
       <View style={styles.kategori}>
         <View style={styles.container}>
-          <TouchableOpacity onPress={{}} >
+          <TouchableOpacity onPress={() => navigation.navigate("Login")} >
             <Image source={require('./assets/recommend.png')} style={{ width: 70, height: 70, borderRadius: 50 }}></Image>
           </TouchableOpacity>
-          <Text style={{ color: '#00BCC9', fontSize: 10, fontWeight: 'bold' }}>Recommend</Text>
+          <Text style={{ color: '#00BCC9', fontSize: 13, fontWeight: 'bold', width: 80, textAlign: 'center'}}>Recommend</Text>
         </View>
         <View style={styles.container}>
-          <TouchableOpacity onPress={{}} >
+          <TouchableOpacity >
             <Image source={require('./assets/promo.png')} style={{ width: 70, height: 70, borderRadius: 50 }}></Image>
           </TouchableOpacity>
-          <Text style={{ color: '#00BCC9', fontSize: 13, fontWeight: 'bold' }}>Promo</Text>
+          <Text style={{ color: '#00BCC9', fontSize: 13, fontWeight: 'bold', width: 80,  textAlign: 'center' }}>Promo</Text>
         </View>
         <View style={styles.container}>
           <TouchableOpacity onPress={{}} >
             <Image source={require('./assets/unique.png')} style={{ width: 70, height: 70, borderRadius: 50 }}></Image>
           </TouchableOpacity>
-          <Text style={{ color: '#00BCC9', fontSize: 12, fontWeight: 'bold', justifyContent: 'center' }}>Unique</Text>
+          <Text style={{ color: '#00BCC9', fontSize: 13, fontWeight: 'bold',width: 80, textAlign: 'center' }}>Unique</Text>
         </View>
 
         {/* <View style={{alignItems: 'center', justifyContent: 'space-between'}}></View> */}
