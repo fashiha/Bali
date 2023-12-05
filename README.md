@@ -1,45 +1,51 @@
-Bali & Villa
+Bali & Villa (B & V)
 
-DESKRIPSI APLIKASI:
-B&V merupakan sebuah aplikasi android berbasis spasial yang memberikan beberapa rekomendasi villa dan resort di Bali. 
-Aplikasi ini dirancang khusus untuk pengguna seperti turis dalam menemukan, mengeksplorasi dan memilih villa resort yang tersedia di Bali. 
-Dengan menggunakan teknologi Geographic Information System (GIS), aplikasi ini menyediakan informasi lokasi, rating
-dan detail harga villa dengan visualisasi pada fitur peta interaktif. Pemilihan lokasi karena Bali merupakan tujuan wisata populer dengan 
-pertumbuhan industri pariwisata yang pesat. banyak villa di Bali menunjukkan adanya peluang bisnis yang besar dalam 
-menyediakan layanan atau manajemen villa melalui aplikasi. 
+A. DESKRIPSI APLIKASI:
+   B&V merupakan sebuah aplikasi android berbasis spasial yang memberikan beberapa rekomendasi villa dan resort di Bali. 
+   Aplikasi ini dirancang khusus untuk pengguna seperti turis dalam menemukan, mengeksplorasi dan memilih villa resort yang tersedia di Bali. 
+   Dengan menggunakan teknologi Geographic Information System (GIS), aplikasi ini menyediakan informasi lokasi, rating
+   dan detail harga villa dengan visualisasi pada fitur peta interaktif. Pemilihan lokasi karena Bali merupakan tujuan wisata populer dengan 
+   pertumbuhan industri pariwisata yang pesat. banyak villa di Bali menunjukkan adanya peluang bisnis yang besar dalam 
+   menyediakan layanan atau manajemen villa melalui aplikasi. 
 
-TUJUAN DAN MANFAAT:
-1. Menjadikan solusi penanganan digital secara praktis dan efektif bagi wisatawan dalam menemukan villa di Bali sesuai kebutuhan dan keinginan.
-2. Memudahkan dalam mencari dan memilih villa yang ada di Bali secara efisien dan memberikan informasi detail yang diperlukan untuk membuat keputusan yang tepat.
+B. TUJUAN DAN MANFAAT:
+   1. Menjadikan solusi penanganan digital secara praktis dan efektif bagi wisatawan dalam menemukan villa di Bali sesuai kebutuhan dan keinginan.
+   2. Memudahkan dalam mencari dan memilih villa yang ada di Bali secara efisien dan memberikan informasi detail yang diperlukan untuk membuat keputusan yang tepat.
 
-KOMPONEN APLIKASI:
-1. React Native
-2. HTML
-3. LeafletJS
-4. Google Sheets
-5. App Scripts
-6. FontAwesome5
-7. GitHub
+C. KOMPONEN APLIKASI:
+   1. React Native
+   2. HTML
+   3. LeafletJS
+   4. Google Sheets
+   5. App Scripts
+   6. FontAwesome5
+   7. GitHub
 
-SUMBER DATA:
-Google Maps (metode scraper extensions)
+D. SUMBER DATA:
+   Google Maps (metode scraper extensions)
 
 
-a. ![image](https://github.com/fashiha/Bali/assets/88226203/20badb01-e6d7-4041-b2ad-def17aa1ee73)
+a. Tampilan Sign in
+![image](https://github.com/fashiha/Bali/assets/88226203/20badb01-e6d7-4041-b2ad-def17aa1ee73)
 
-b. ![image](https://github.com/fashiha/Bali/assets/88226203/0f6a384f-a9e7-4ba3-a6f5-f9566299da92)
+b. Tampilan Sign up
+![image](https://github.com/fashiha/Bali/assets/88226203/0f6a384f-a9e7-4ba3-a6f5-f9566299da92)
 
-c. <img width="247" alt="image" src="https://github.com/fashiha/Bali/assets/88226203/60108f7f-031a-4caa-bd36-76dad873489c">
+c. Tampilan Home
+<img width="247" alt="image" src="https://github.com/fashiha/Bali/assets/88226203/60108f7f-031a-4caa-bd36-76dad873489c">
 
-d. ![image](https://github.com/fashiha/Bali/assets/88226203/2f2c6c97-4a78-4db3-814c-0e7f95ec124f)
+d. Tampilan Maps
+![image](https://github.com/fashiha/Bali/assets/88226203/2f2c6c97-4a78-4db3-814c-0e7f95ec124f)
 
-e. ![image](https://github.com/fashiha/Bali/assets/88226203/c4d990ef-5d15-405f-b333-dfdf8be32122)
+e.Tampilan Form Input / Add Data
+![image](https://github.com/fashiha/Bali/assets/88226203/c4d990ef-5d15-405f-b333-dfdf8be32122)
+![image](https://github.com/fashiha/Bali/assets/88226203/d3bd8c7b-1a04-47cb-ba4d-ef549c73bb77)
 
-f. ![image](https://github.com/fashiha/Bali/assets/88226203/d3bd8c7b-1a04-47cb-ba4d-ef549c73bb77)
+f. Tampilan List Data
+![image](https://github.com/fashiha/Bali/assets/88226203/32456140-5bb8-4af1-ade0-9ad830dbc666)
 
-g. ![image](https://github.com/fashiha/Bali/assets/88226203/32456140-5bb8-4af1-ade0-9ad830dbc666)
-
-h. ![image](https://github.com/fashiha/Bali/assets/88226203/1e363c76-0386-4cbe-8f7c-439bef699d5a)
+g. Tampilan Profile
+![image](https://github.com/fashiha/Bali/assets/88226203/1e363c76-0386-4cbe-8f7c-439bef699d5a)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
