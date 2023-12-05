@@ -28,7 +28,7 @@ D. SUMBER DATA:
 
 a. Tampilan Sign in 
 
-![image](https://github.com/fashiha/Bali/assets/88226203/20badb01-e6d7-4041-b2ad-def17aa1ee73)
+
 
 b. Tampilan Sign up
 
@@ -40,20 +40,20 @@ c. Tampilan Home
 
 d. Tampilan Maps
 
-![image](https://github.com/fashiha/Bali/assets/88226203/2f2c6c97-4a78-4db3-814c-0e7f95ec124f)
+<img width="246" alt="image" src="https://github.com/fashiha/Bali/assets/88226203/abdaffe9-2eb1-4e49-80e8-4bcdc8bc6c78">
 
 e.Tampilan Form Input / Add Data
 
-![image](https://github.com/fashiha/Bali/assets/88226203/c4d990ef-5d15-405f-b333-dfdf8be32122)
-![image](https://github.com/fashiha/Bali/assets/88226203/d3bd8c7b-1a04-47cb-ba4d-ef549c73bb77)
+<img width="252" alt="image" src="https://github.com/fashiha/Bali/assets/88226203/23b1524c-8e62-483a-a85d-f35007cd067e">
+<img width="247" alt="image" src="https://github.com/fashiha/Bali/assets/88226203/366f2b6a-6af4-4f2c-bffb-28dea4b2b043">
 
 f. Tampilan List Data
 
-![image](https://github.com/fashiha/Bali/assets/88226203/32456140-5bb8-4af1-ade0-9ad830dbc666)
+<img width="249" alt="image" src="https://github.com/fashiha/Bali/assets/88226203/46b77384-89d6-4a4e-bb64-8ec02436d758">
 
 g. Tampilan Profile
 
-![image](https://github.com/fashiha/Bali/assets/88226203/1e363c76-0386-4cbe-8f7c-439bef699d5a)
+<img width="253" alt="image" src="https://github.com/fashiha/Bali/assets/88226203/6519a4b1-07ee-4403-8e84-2015051cb78d">
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
