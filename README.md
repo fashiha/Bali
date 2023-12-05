@@ -31,22 +31,28 @@ a. Tampilan Sign in
 ![image](https://github.com/fashiha/Bali/assets/88226203/20badb01-e6d7-4041-b2ad-def17aa1ee73)
 
 b. Tampilan Sign up
+
 ![image](https://github.com/fashiha/Bali/assets/88226203/0f6a384f-a9e7-4ba3-a6f5-f9566299da92)
 
 c. Tampilan Home
+
 <img width="247" alt="image" src="https://github.com/fashiha/Bali/assets/88226203/60108f7f-031a-4caa-bd36-76dad873489c">
 
 d. Tampilan Maps
+
 ![image](https://github.com/fashiha/Bali/assets/88226203/2f2c6c97-4a78-4db3-814c-0e7f95ec124f)
 
 e.Tampilan Form Input / Add Data
+
 ![image](https://github.com/fashiha/Bali/assets/88226203/c4d990ef-5d15-405f-b333-dfdf8be32122)
 ![image](https://github.com/fashiha/Bali/assets/88226203/d3bd8c7b-1a04-47cb-ba4d-ef549c73bb77)
 
 f. Tampilan List Data
+
 ![image](https://github.com/fashiha/Bali/assets/88226203/32456140-5bb8-4af1-ade0-9ad830dbc666)
 
 g. Tampilan Profile
+
 ![image](https://github.com/fashiha/Bali/assets/88226203/1e363c76-0386-4cbe-8f7c-439bef699d5a)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
