@@ -28,7 +28,7 @@ D. SUMBER DATA:
 
 a. Tampilan Sign in 
 
-<img width="247" alt="image" src="https://github.com/fashiha/Bali/assets/88226203/69a3e8ea-fb90-4c19-a79f-2adef3d4a111">
+<img width="247" alt="image" src="https://github.com/fashiha/Bali/assets/88226203/60108f7f-031a-4caa-bd36-76dad873489c">
 
 b. Tampilan Sign up
 
